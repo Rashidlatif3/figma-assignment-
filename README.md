@@ -1,2 +1,2 @@
 # figma-assignment-
-educational purposes 
+educational purposes
